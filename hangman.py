@@ -1,6 +1,6 @@
 import random
 
-words = ["python", "computer", "programming", "developer", "keyboard"]
+words = ["iphone", "oneplus", "jaguar", "coding", "congratulation"]
 
 word = random.choice(words)
 
